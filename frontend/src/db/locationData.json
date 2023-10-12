@@ -1,0 +1,420 @@
+{
+  "locationDo": [
+    {
+      "id": 10,
+      "title": "서울특별시"
+    },
+    {
+      "id": 11,
+      "title": "부산광역시"
+    },
+    {
+      "id": 12,
+      "title": "대구광역시"
+    },
+    {
+      "id": 13,
+      "title": "인천광역시"
+    },
+    {
+      "id": 14,
+      "title": "광주광역시"
+    },
+    {
+      "id": 15,
+      "title": "대전광역시"
+    },
+    {
+      "id": 16,
+      "title": "울산광역시"
+    },
+    {
+      "id": 17,
+      "title": "세종특별자치시"
+    },
+    {
+      "id": 18,
+      "title": "경기도"
+    },
+    {
+      "id": 19,
+      "title": "강원도"
+    },
+    {
+      "id": 20,
+      "title": "충청북도"
+    },
+    {
+      "id": 21,
+      "title": "충청남도"
+    },
+    {
+      "id": 22,
+      "title": "경상북도"
+    },
+    {
+      "id": 23,
+      "title": "경상남도"
+    },
+    {
+      "id": 24,
+      "title": "제주특별자치도"
+    }
+  ],
+  "locationSe": [
+    {
+      "id": 10,
+      "localid": 1010,
+      "do": "seoul",
+      "title": "강북구"
+    },
+    {
+      "id": 10,
+      "localid": 1011,
+      "do": "seoul",
+      "title": "강남구"
+    },
+    {
+      "id": 10,
+      "localid": 1012,
+      "do": "seoul",
+      "title": "강동구"
+    },
+    {
+      "id": 10,
+      "localid": 1013,
+      "do": "seoul",
+      "title": "강서구"
+    },
+    {
+      "id": 10,
+      "localid": 1014,
+      "do": "seoul",
+      "title": "관악구"
+    },
+    {
+      "id": 10,
+      "localid": 1015,
+      "do": "seoul",
+      "title": "광진구"
+    },
+    {
+      "id": 10,
+      "localid": 1016,
+      "do": "seoul",
+      "title": "구로구"
+    },
+    {
+      "id": 10,
+      "localid": 1017,
+      "do": "seoul",
+      "title": "노원구"
+    },
+    {
+      "id": 10,
+      "localid": 1018,
+      "do": "seoul",
+      "title": "도봉구"
+    },
+    {
+      "id": 10,
+      "localid": 1019,
+      "do": "seoul",
+      "title": "동대문구"
+    },
+    {
+      "id": 10,
+      "localid": 1020,
+      "do": "seoul",
+      "title": "동작구"
+    },
+    {
+      "id": 10,
+      "localid": 1021,
+      "do": "seoul",
+      "title": "마포구"
+    },
+    {
+      "id": 10,
+      "localid": 1022,
+      "do": "seoul",
+      "title": "서대문구"
+    },
+    {
+      "id": 10,
+      "localid": 1023,
+      "do": "seoul",
+      "title": "서초구"
+    },
+    {
+      "id": 10,
+      "localid": 1024,
+      "do": "seoul",
+      "title": "성동구"
+    },
+    {
+      "id": 10,
+      "localid": 1025,
+      "do": "seoul",
+      "title": "성북구"
+    },
+    {
+      "id": 10,
+      "localid": 1026,
+      "do": "seoul",
+      "title": "송파구"
+    },
+    {
+      "id": 10,
+      "localid": 1027,
+      "do": "seoul",
+      "title": "양천구"
+    },
+    {
+      "id": 10,
+      "localid": 1028,
+      "do": "seoul",
+      "title": "영등포구"
+    },
+    {
+      "id": 10,
+      "localid": 1029,
+      "do": "seoul",
+      "title": "용산구"
+    },
+    {
+      "id": 10,
+      "localid": 1030,
+      "do": "seoul",
+      "title": "금천구"
+    },
+    {
+      "id": 10,
+      "localid": 1031,
+      "do": "seoul",
+      "title": "은평구"
+    },
+    {
+      "id": 10,
+      "localid": 1032,
+      "do": "seoul",
+      "title": "종로구"
+    },
+    {
+      "id": 10,
+      "localid": 1033,
+      "do": "seoul",
+      "title": "중구"
+    },
+    {
+      "id": 10,
+      "localid": 1034,
+      "do": "seoul",
+      "title": "중랑구"
+    },
+    {
+      "id": 11,
+      "localid": 1110,
+      "do": "busan",
+      "title": "강서구"
+    },
+    {
+      "id": 11,
+      "localid": 1111,
+      "do": "busan",
+      "title": "금정구"
+    },
+    {
+      "id": 11,
+      "localid": 1112,
+      "do": "busan",
+      "title": "기장군"
+    },
+    {
+      "id": 11,
+      "localid": 1113,
+      "do": "busan",
+      "title": "남구"
+    },
+    {
+      "id": 11,
+      "localid": 1114,
+      "do": "busan",
+      "title": "동구"
+    },
+    {
+      "id": 11,
+      "localid": 1115,
+      "do": "busan",
+      "title": "동래구"
+    },
+    {
+      "id": 11,
+      "localid": 1116,
+      "do": "busan",
+      "title": "부산진구"
+    },
+    {
+      "id": 11,
+      "localid": 1117,
+      "do": "busan",
+      "title": "북구"
+    },
+    {
+      "id": 11,
+      "localid": 1118,
+      "do": "busan",
+      "title": "사상구"
+    },
+    {
+      "id": 11,
+      "localid": 1119,
+      "do": "busan",
+      "title": "사하구"
+    },
+    {
+      "id": 11,
+      "localid": 1120,
+      "do": "busan",
+      "title": "서구"
+    },
+    {
+      "id": 11,
+      "localid": 1121,
+      "do": "busan",
+      "title": "수영구"
+    },
+    {
+      "id": 11,
+      "localid": 1122,
+      "do": "busan",
+      "title": "연제구"
+    },
+    {
+      "id": 11,
+      "localid": 1123,
+      "do": "busan",
+      "title": "영도구"
+    },
+    {
+      "id": 11,
+      "localid": 1124,
+      "do": "busan",
+      "title": "중구"
+    },
+    {
+      "id": 11,
+      "localid": 1125,
+      "do": "busan",
+      "title": "해운대구"
+    },
+    {
+      "id": 12,
+      "localid": 1210,
+      "do": "daegu",
+      "title": "남구"
+    },
+    {
+      "id": 12,
+      "localid": 1211,
+      "do": "daegu",
+      "title": "달서구"
+    },
+    {
+      "id": 12,
+      "localid": 1212,
+      "do": "daegu",
+      "title": "달성군"
+    },
+    {
+      "id": 12,
+      "localid": 1213,
+      "do": "daegu",
+      "title": "동구"
+    },
+    {
+      "id": 12,
+      "localid": 1214,
+      "do": "daegu",
+      "title": "북구"
+    },
+    {
+      "id": 12,
+      "localid": 1215,
+      "do": "daegu",
+      "title": "서구"
+    },
+    {
+      "id": 12,
+      "localid": 1216,
+      "do": "daegu",
+      "title": "수성구"
+    },
+    {
+      "id": 12,
+      "localid": 1217,
+      "do": "daegu",
+      "title": "중구"
+    },
+    {
+      "id": 13,
+      "localid": 1310,
+      "do": "incheon",
+      "title": "강화군"
+    },
+    {
+      "id": 13,
+      "localid": 1311,
+      "do": "incheon",
+      "title": "남구"
+    },
+    {
+      "id": 13,
+      "localid": 1312,
+      "do": "incheon",
+      "title": "남동구"
+    },
+    {
+      "id": 13,
+      "localid": 1313,
+      "do": "incheon",
+      "title": "동구"
+    },
+    {
+      "id": 13,
+      "localid": 1314,
+      "do": "incheon",
+      "title": "서구"
+    },
+    {
+      "id": 13,
+      "localid": 1315,
+      "do": "incheon",
+      "title": "옹진군"
+    },
+    {
+      "id": 13,
+      "localid": 1316,
+      "do": "incheon",
+      "title": "중구"
+    },
+    {
+      "id": 13,
+      "localid": 1317,
+      "do": "incheon",
+      "title": "연수구"
+    },
+    {
+      "id": 13,
+      "localid": 1318,
+      "do": "incheon",
+      "title": "부평구"
+    },
+    {
+      "id": 13,
+      "localid": 1319,
+      "do": "incheon",
+      "title": "계양구"
+    }
+  ]
+}
